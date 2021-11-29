@@ -13,3 +13,12 @@
 [Google](https://www.google.co.in/)
 
 ![WildWolf](https://previews.123rf.com/images/cynoclub/cynoclub0711/cynoclub071100040/2134981-beautiful-eyes-of-a-wild-wolf-dangerous-mammal.jpg)
+
+* fruit 
+   * oranges
+   * apples
+   * bananas
+1. vegetables
+    1. tomatoes
+    2. onions
+    3. carrot
